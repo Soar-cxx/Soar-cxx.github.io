@@ -5,7 +5,9 @@
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
-    
+    <script type="text/javascript"
+   </script>
+
 </head>
 <body>
 <h1>陈旭翔的个人主页</h1>
