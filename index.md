@@ -1,12 +1,7 @@
 <html>
 <head>
     <title>欢迎来到陈一帆的个人主页</title>
-    <link href="style.css"  rel="stylesheet" type="text/css" />
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
 
-</head>
 <body>
 <h1>陈旭翔的个人主页</h1>
 <br>
