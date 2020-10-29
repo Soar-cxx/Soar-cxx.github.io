@@ -1,11 +1,12 @@
 <html>
 <head>
-    <title>欢迎来到陈旭翔的个人主页</title>
+    <title>欢迎来到王一刚老师的课程主页</title>
     <link href="style.css"  rel="stylesheet" type="text/css" />
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 </script>
     <script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
    </script>
 
 </head>
